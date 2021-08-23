@@ -1,7 +1,7 @@
 ---
 title: "In-class Exercise 2"
 description: |
-  A short description of the post.
+  Learnt how to handle geospatial data using sf package
 author:
   - name: Bernice Seah
     url: https://github.com/Namisus

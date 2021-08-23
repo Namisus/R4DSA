@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2021-08-22T17:32:18+08:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2021-08-23-in-class-exercise-2/",
+    "title": "In-class Exercise 2",
+    "description": "Learnt how to handle geospatial data using sf package",
+    "author": [
+      {
+        "name": "Bernice Seah",
+        "url": "https://github.com/Namisus"
+      }
+    ],
+    "date": "2021-08-23",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-08-23T10:57:55+08:00",
+    "input_file": "in-class-exercise-2.knit.md"
   }
 ]
