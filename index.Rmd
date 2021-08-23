@@ -1,5 +1,5 @@
 ---
-title: "R for Data Science and Analytics"
+title: "R for Data Science and Analytics(Index)"
 site: distill::distill_website
 listing: posts
 ---

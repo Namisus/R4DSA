@@ -5,7 +5,15 @@ description: |
 output_dir: "_site"
 navbar:
   right:
-    - text: "Home"
+    - text: "Take-Home Exercise"
+      menu:
+      - text: "Exercise 1"
+        href:
+      - text: "Exercise 2"
+        href:
+      - text: "Exercise 3"
+        href:
+    - text: "In-class Exercise"
       href: index.html
     - text: "About"
       href: about.html
